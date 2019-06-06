@@ -4,6 +4,7 @@ import './stylus/test.styl'
 import { cube } from './math'
 console.log(echarts)
 console.log(222)
+console.log(333)
 // console.log(4)
 
 function component() {
