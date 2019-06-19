@@ -16,7 +16,7 @@ function component() {
     '5 cubed is equal to ' + cube(5)
   ]
   element.classList.add('hello')
-
+  console.log('test');
   return element;
 }
 
